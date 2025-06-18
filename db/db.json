@@ -1,0 +1,121 @@
+{
+  "drinks": [
+    {
+      "id": "1",
+      "title": "Fanta",
+      "company_name": "Coca-Cola",
+      "price": 7000,
+      "volume": "0.5L",
+      "type": "gazli",
+      "image": "https://images.uzum.uz/cegsr3ivtie1lhbf8afg/original.jpg"
+    },
+    {
+      "title": "Coca-Colasw",
+      "company_name": "Coca-Cola",
+      "price": 7500,
+      "volume": "0.5L",
+      "type": "gazsiz",
+      "image": "https://files.glotr.uz/company/000/012/826/products/2022/07/16/2022-07-16-16-59-57-157960-6abc69f8a69b941cb4d228ca7715b4af.webp?_=ozb9y",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "title": "Sprite",
+      "company_name": "Coca-Cola",
+      "price": 7200,
+      "volume": "0.5L",
+      "type": "gazli",
+      "image": "https://www.coca-cola.com/content/dam/onexp/kz/ru/brand-sprite/packshot%20desktop.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Pepsi",
+      "company_name": "PepsiCo",
+      "price": 7300,
+      "volume": "0.5L",
+      "type": "gazli",
+      "image": "https://m.media-amazon.com/images/I/91LnEhnul6L._SL1500_.jpg"
+    },
+    {
+      "id": "5",
+      "title": "7UP",
+      "company_name": "PepsiCo",
+      "price": 7100,
+      "volume": "0.5L",
+      "type": "gazli",
+      "image": "https://knjaz.rs/wp-content/uploads/2023/02/7UP-0.5L-PET-img-min.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Mirinda",
+      "company_name": "PepsiCo",
+      "price": 7000,
+      "volume": "0.5L",
+      "type": "gazli",
+      "image": "https://babymarket.uz/wp-content/uploads/2020/07/napitok-mirinda-apelsin-05-l.jpg"
+    },
+    {
+      "title": "Fuse Teaq",
+      "company_name": "Coca-Cola",
+      "price": 6800,
+      "volume": "0.5L",
+      "type": "gazsiz",
+      "image": "https://images.uzum.uz/ctd74cdpb7f7ago8ihlg/original.jpg",
+      "id": "7"
+    },
+    {
+      "id": "8",
+      "title": "Lipton Ice Tea",
+      "company_name": "PepsiCo",
+      "price": 6900,
+      "volume": "0.5L",
+      "type": "gazsiz",
+      "image": "https://dostavo4ka.uz/upload-file/2021/05/05/1279/84bf1a88-0b2a-4f43-8306-c7311d86e394.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Red Bull",
+      "company_name": "Red Bull GmbH",
+      "price": 12000,
+      "volume": "0.25L",
+      "type": "gazli",
+      "image": "https://dostavo4ka.uz/upload-file/2021/07/01/6221/570d52c6-a3dd-4328-8dcc-102e9dd9cb75.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Burn",
+      "company_name": "Coca-Cola",
+      "price": 11500,
+      "volume": "0.25L",
+      "type": "gazli",
+      "image": "https://images.uzum.uz/cn26ijbifoubkc6r2ngg/original.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Bonaqua",
+      "company_name": "Coca-Cola",
+      "price": 3000,
+      "volume": "0.5L",
+      "type": "gazsiz",
+      "image": "https://www.coca-cola.com/content/dam/onexp/uz/uz/brands/bonaqua/bon%20aqua%200,5l%20carbonated_750x750.jpg"
+    },
+    {
+      "id": "dbac",
+      "title": "qsdfg",
+      "company_name": "sdfg",
+      "price": 23,
+      "volume": "1234e5try",
+      "type": "gazsiz",
+      "image": "https://cs.pikabu.ru/post_img/2013/06/18/0/1371499394_1631425158.jpg"
+    },
+    {
+      "id": "29f9",
+      "title": "23456789",
+      "company_name": "qwertyuiy",
+      "price": 11,
+      "volume": "wert",
+      "type": "gazsiz",
+      "image": "wdef"
+    }
+  ]
+}
