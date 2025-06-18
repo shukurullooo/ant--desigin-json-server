@@ -8,7 +8,7 @@ const contentStyle = {
   textAlign: 'center',
   background: '#364d79',
 };
-const App = () => {
+const DrinkSlider = () => {
   const onChange = currentSlide => {
     console.log(currentSlide);
   };
@@ -26,4 +26,4 @@ const App = () => {
     </Carousel>
   );
 };
-export default App;
+export default DrinkSlider;

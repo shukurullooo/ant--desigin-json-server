@@ -1,13 +1,13 @@
 {
   "drinks": [
     {
-      "id": "1",
       "title": "Fanta",
       "company_name": "Coca-Cola",
       "price": 7000,
       "volume": "0.5L",
       "type": "gazli",
-      "image": "https://images.uzum.uz/cegsr3ivtie1lhbf8afg/original.jpg"
+      "image": "https://images.uzum.uz/cegsr3ivtie1lhbf8afg/original.jpg",
+      "id": "1"
     },
     {
       "title": "Coca-Colasw",
@@ -98,24 +98,6 @@
       "volume": "0.5L",
       "type": "gazsiz",
       "image": "https://www.coca-cola.com/content/dam/onexp/uz/uz/brands/bonaqua/bon%20aqua%200,5l%20carbonated_750x750.jpg"
-    },
-    {
-      "id": "dbac",
-      "title": "qsdfg",
-      "company_name": "sdfg",
-      "price": 23,
-      "volume": "1234e5try",
-      "type": "gazsiz",
-      "image": "https://cs.pikabu.ru/post_img/2013/06/18/0/1371499394_1631425158.jpg"
-    },
-    {
-      "id": "29f9",
-      "title": "23456789",
-      "company_name": "qwertyuiy",
-      "price": 11,
-      "volume": "wert",
-      "type": "gazsiz",
-      "image": "wdef"
     }
   ]
 }
